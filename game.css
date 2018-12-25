@@ -1,0 +1,32 @@
+#full
+{
+    width:30%;
+    margin:0 auto;
+    padding-top:auto;
+}
+.half
+{
+    margin:2.5%;
+    background-color: blueviolet;
+    border:4px solid yellow;
+    text-align:auto;
+    font-size:50px; 
+    margin:10px;
+    width:30%;
+    float:left;
+    
+}
+body{
+    background-color:orchid;
+}
+#btn
+{
+    color: rgb(252, 255, 47);
+    padding:5%;
+    margin-left:60% ;
+    font-size:18px;
+}
+#try
+{
+    color:white;
+}
